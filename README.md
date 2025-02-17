@@ -1,9 +1,9 @@
 <h2 align="center">
-  Consultancy Website - v2.0<br/>
+  Consultancy Website <br/>
   <a href="https://adorable-maamoul-a5740e.netlify.app/" target="_blank">Mosh Digital App</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/consultancyapp.jpeg" />
+  <img alt="Demo" src="consultancyapp.jpeg" />
 </div>
 
 <br/>
